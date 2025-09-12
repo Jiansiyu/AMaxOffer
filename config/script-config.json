@@ -1,9 +1,19 @@
 {
-  "script_expiry": "2025-09-30T04:59:59Z",
-  "version": "1.0.0",
+  "versions": {
+
+    "4.0.3": {
+      "expiry": "2025-10-31T23:59:59Z",
+      "description": "New features and security enhancements"
+    },
+    "4.1.0": {
+      "expiry": "2026-03-31T23:59:59Z",
+      "description": "Fix 429 too many requests"
+    }
+  },
+  "default_expiry": "2025-10-31T23:59:59Z",
   "features": {
     "auto_enroll": true,
-    "batch_size": 100
+    "batch_size": 20
   },
   "maintenance_mode": false
 }
