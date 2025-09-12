@@ -1,6 +1,9 @@
 {
   "versions": {
-
+    "4.0.2": {
+      "expiry": "2025-12-31T23:59:59Z",
+      "description": "Enhanced UI and stability updates"
+    },
     "4.0.3": {
       "expiry": "2025-10-31T23:59:59Z",
       "description": "New features and security enhancements"
