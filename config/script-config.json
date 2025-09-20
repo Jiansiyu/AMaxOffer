@@ -12,9 +12,9 @@
       "expiry": "2025-10-31T23:59:59Z",
       "description": "Fix bug: 429 too many requests"
     },
-    "4.1.1": {
-      "expiry": "2025-09-30T23:59:59Z",
-      "description": "Version 4.1.1 - Auto-updated by sync script"
+    "4.2.1": {
+      "expiry": "2025-10-30T23:59:59Z",
+      "description": "Bug fixes and performance improvements"
     }
   },
   "default_expiry": "2025-09-30T23:59:59Z"
