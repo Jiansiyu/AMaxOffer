@@ -12,10 +12,10 @@
       "expiry": "2025-10-31T23:59:59Z",
       "description": "Fix bug: 429 too many requests"
     },
-    "4.2.1": {
+    "4.2.0": {
       "expiry": "2025-10-30T23:59:59Z",
       "description": "Bug fixes and performance improvements"
     }
   },
-  "default_expiry": "2025-09-30T23:59:59Z"
+  "default_expiry": "2025-10-30T23:59:59Z"
 }
