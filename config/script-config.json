@@ -18,7 +18,7 @@
     }    ,
     "4.3.0": {
       "expiry": "2025-10-30T23:59:59Z",
-      "description": "UI and logic improvements, loading performance enhancements"
+      "description": "UI and logic improvements, loading performance enhancements. (A update about better batch request handling is available. Update if needed.)"
     }
   },
   "default_expiry": "2025-10-01T23:59:59Z"
