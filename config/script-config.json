@@ -27,6 +27,10 @@
     "4.3.2": {
       "expiry": "2025-11-05T23:59:59Z",
       "description": "UI and logic improvements\n• Loading performance enhancements\n• Optional batch request handling update available—enable if needed."
+    },
+    "4.3.3": {
+      "expiry": "2025-11-30T23:59:59Z",
+      "description": "UI and logic improvements\n• Loading performance enhancements\n• Optional batch request handling update available—enable if needed."
     }
     
   },
